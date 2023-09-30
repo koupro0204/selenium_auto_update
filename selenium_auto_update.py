@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 # WebDriverのダウンロード元のURL
 WEBDRIVER_BASE_URL = "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/"
 
+# 最新バージョンを取得するためのURL
 LATEST_VERSION_URL = "https://googlechromelabs.github.io/chrome-for-testing/"
 
 # WebDriverを起動する
